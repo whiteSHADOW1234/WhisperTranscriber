@@ -33,8 +33,8 @@ Easily transcribe YouTube videos, MP4, and MP3 files to text using Whisper on Go
 11. Click the `Runtime` menu again.
 12. Select `Run all` (or press `Ctrl + F9`) or **manually run code blocks 1 through 4 to avoid errors**.
 
-    > [!NOTE]  
-    > It’s normal to see errors at this point if you decided to `Run all`, since no file type or file path has been selected yet.
+> [!NOTE]  
+> It’s normal to see errors at this point if you decided to `Run all`, since no file type or file path has been selected yet.
 
     ![image](images/6_run_all.png)
 
@@ -62,8 +62,8 @@ Easily transcribe YouTube videos, MP4, and MP3 files to text using Whisper on Go
     - Example of selected result:
         ![MP4 Example](images/mp4_2.png)
 3. Drag and drop `<YOUR_FILE_NAME>.mp4` into the **Files** panel.
-    > [!TIP]  
-    > Click the **Files** icon on the right if the panel isn't open.
+> [!TIP]  
+> Click the **Files** icon on the right if the panel isn't open.
 4. Right-click on the file.
 5. Select `Copy path`.
 6. Run **Code Block 5** and paste the **file path** into the input prompt. Press Enter to start conversion.
@@ -82,8 +82,8 @@ Easily transcribe YouTube videos, MP4, and MP3 files to text using Whisper on Go
     - Screenshot of selected result:
         ![image](images/mp3_2.png)
 3. Drag and drop `<YOUR_FILE_NAME>.mp3` into the **Files** panel.
-    > [!TIP]  
-    > Click the **Files** icon on the right if the panel isn't open.
+> [!TIP]  
+> Click the **Files** icon on the right if the panel isn't open.
 4. Right-click on the file.
 5. And select `Copy path`.
 6. Run **Code Block 5** and paste the **file path** into the input textbar.
