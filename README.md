@@ -14,8 +14,6 @@ Easily transcribe YouTube videos, MP4, and MP3 files to text using Whisper on Go
    - [MP4 ➔ Text File](#2-mp4--text-file)
    - [MP3 ➔ Text File](#3-mp3--text-file)
 
----
-
 ### I. Basic Setup
 1. Search for `google colab` on Google and press Enter.
 2. Select the first search result or directly click this link: [Google Colaboratory](https://colab.research.google.com).
@@ -64,7 +62,7 @@ Easily transcribe YouTube videos, MP4, and MP3 files to text using Whisper on Go
     - Example of selected result:
         ![MP4 Example](images/mp4_2.png)
 3. Drag and drop `<YOUR_FILE_NAME>.mp4` into the **Files** panel.
-    > [!NOTE]  
+    > [!TIP]  
     > Click the **Files** icon on the right if the panel isn't open.
 4. Right-click on the file.
 5. Select `Copy path`.
@@ -84,7 +82,7 @@ Easily transcribe YouTube videos, MP4, and MP3 files to text using Whisper on Go
     - Screenshot of selected result:
         ![image](images/mp3_2.png)
 3. Drag and drop `<YOUR_FILE_NAME>.mp3` into the **Files** panel.
-    > [!NOTE]  
+    > [!TIP]  
     > Click the **Files** icon on the right if the panel isn't open.
 4. Right-click on the file.
 5. And select `Copy path`.
@@ -96,8 +94,6 @@ Easily transcribe YouTube videos, MP4, and MP3 files to text using Whisper on Go
 10. Finally, click `Download` to get your text file.
     ![image](images/mp3_4.png)
     ![image](images/mp3_5.png)
-
----
 
 ## Notes
 - Ensure stable internet connectivity for smooth transcription.
