@@ -32,11 +32,10 @@ Easily transcribe YouTube videos, MP4, and MP3 files to text using Whisper on Go
     ![image](images/5_select_runtime.png)
 11. Click the `Runtime` menu again.
 12. Select `Run all` (or press `Ctrl + F9`) or **manually run code blocks 1 through 4 to avoid errors**.
-
-> [!NOTE]  
-> It’s normal to see errors at this point if you decided to `Run all`, since no file type or file path has been selected yet.
-
-    ![image](images/6_run_all.png)
+   ![image](images/6_run_all.png)
+   > [!NOTE]  
+   > It’s normal to see errors at this point if you decided to `Run all`, since no file type or file path has been selected yet.
+    
 
 ### II. Choose Data Type & Download Transcribed Text
 
